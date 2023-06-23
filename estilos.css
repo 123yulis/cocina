@@ -11,4 +11,10 @@ body{
     font-family: 'Rowdies', cursive;
 
     font-family: 'Abril Fatface', cursive;
+    width: 100%;
+    background-image: url('https://www.lachidatomares.com/imagenes/gastronomia%20mexicana%20patrimonio%20humanidad%20unesco.jpg');
+    background-image: no-repeat;
+    background-size: cover;
+    color: white;
+    background-color: lightgray;
 }
